@@ -6,3 +6,4 @@ My very own personal website. Basically this is just a résumé
  - CSS3
  - my brain
  
+🧙Hocus-pocus!
